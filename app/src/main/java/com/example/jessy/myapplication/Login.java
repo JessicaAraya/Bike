@@ -127,6 +127,7 @@ public class Login extends AppCompatActivity implements LoaderCallbacks<Cursor> 
     /**
      * Callback received when a permissions request has been completed.
      */
+    /*prueba Git*/
     @Override
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions,
                                            @NonNull int[] grantResults) {
