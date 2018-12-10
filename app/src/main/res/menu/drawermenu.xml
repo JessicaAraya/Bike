@@ -5,6 +5,7 @@
     <item android:id="@+id/naveg" android:title=" Navegacion" />
     <item android:id="@+id/estaciona" android:title=" Estacionamientos" />
     <item android:id="@+id/ciclovias" android:title=" Ciclovias" />
+    <item android:id="@+id/salir" android:title=" Salir" />
     <item android:id="@+id/cerrar" android:title=" Cerrar sesion " />
 
 </menu>

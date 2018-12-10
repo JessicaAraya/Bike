@@ -29,4 +29,10 @@ public class MainActivity extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
+
+    /*metodo para cerrar app*/
+    /*public boolean onNavigationItemSelected(){
+
+        return false;
+    }*/
 }
